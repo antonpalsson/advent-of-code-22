@@ -15,3 +15,12 @@ Metrics/MethodLength:
 
 Style/Documentation:
   Enabled: false
+
+Security/Eval:
+  Enabled: false
+
+Style/DocumentDynamicEvalDefinition:
+  Enabled: false
+
+Style/EvalWithLocation:
+  Enabled: false
