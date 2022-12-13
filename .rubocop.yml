@@ -24,3 +24,9 @@ Style/DocumentDynamicEvalDefinition:
 
 Style/EvalWithLocation:
   Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Metrics/PerceivedComplexity:
+  Enabled: false
